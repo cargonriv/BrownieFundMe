@@ -1,0 +1,10 @@
+__pycache__
+.env
+.history
+.hypothesis/
+.pytest_cahce/
+build/
+reports/
+brownie-config.yaml
+*.yaml
+*.env
